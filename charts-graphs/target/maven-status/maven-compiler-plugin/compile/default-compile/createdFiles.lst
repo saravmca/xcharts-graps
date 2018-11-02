@@ -1,0 +1,5 @@
+com\xcharts\dto\ChartDto.class
+com\xcharts\servlets\XChartServlet.class
+com\xcharts\pojo\ChartModel.class
+com\xcharts\repository\XChartData.class
+com\xcharts\servlets\ChartServlet.class

@@ -1,0 +1,33 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+    <display-name>Archetype Created Web Application</display-name>
+    <servlet>
+        <servlet-name>XChartServlet</servlet-name>
+        <display-name>XChartServlet</display-name>
+        <description></description>
+        <servlet-class>com.xcharts.servlets.XChartServlet</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>ChartServlet</servlet-name>
+        <display-name>ChartServlet</display-name>
+        <description>Sample Xchart</description>
+        <servlet-class>com.xcharts.servlets.ChartServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>XChartServlet</servlet-name>
+        <url-pattern>/xChartServlet</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>ChartServlet</servlet-name>
+        <url-pattern>/SampleXchart</url-pattern>
+    </servlet-mapping>
+	
+	
+    <!-- will be shown this page when application starts up -->
+    <welcome-file-list>
+        <welcome-file>index.jsp</welcome-file>
+    </welcome-file-list>
+</web-app>
