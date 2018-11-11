@@ -32,7 +32,7 @@
 </head>
 <body>
     <div style="margin: 10px 0 0 10px;">
-        <h3>XChart Example using AJAX, JSP and Servlet</h3>
+        <h3>XChart Example using AJAX, JSP and Servlet!!!</h3>
         <form class="form-horizontal">
             <fieldset>
                 <div class="input-prepend">
