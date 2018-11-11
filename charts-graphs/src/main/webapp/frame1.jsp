@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Chart Examples</title>
+<title>Chart Examples </title>
 </head>
 <body>
 

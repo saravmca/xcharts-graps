@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>Chart Examples using Xchart</title>
 </head>
 <body>
 	<h1> Chart Examples Using JSP & Java </h1>
