@@ -8,7 +8,7 @@
 </head>
 <body>
 
-<a href="chart.jsp" target="frame2">Google Chart</a><br>
+<a href="chart.jsp" target="frame2">Google GSON Chart</a><br>
 <a href="chart2.jsp" target="frame2">Xchart</a>
 </body>
 </html>
